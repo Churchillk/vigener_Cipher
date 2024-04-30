@@ -34,3 +34,8 @@ This Python script provides functionalities for encrypting and decrypting text u
 
 ```bash
 python caesar_cipher.py -k 3 -t plaintext -w "hello" -m enc
+```
+#### Decryption
+
+```bash
+python caesar_cipher.py -k 3 -t ciphertext -c "khoor" -m dec
