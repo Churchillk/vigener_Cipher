@@ -20,7 +20,9 @@ This Python script provides functionalities for encrypting and decrypting text u
 
 To install the requirement if for any reasons the packages doesn't exists by default on your device, do
 
-`pip install -r requirements.txt`
+```bash
+pip install -r requirements.txt
+```
 
 ### Command-line Arguments
 
