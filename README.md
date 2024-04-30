@@ -18,6 +18,7 @@ This Python script provides functionalities for encrypting and decrypting text u
 ### Requirements
 
 - Python 3.x
+- argparse
 - colorama library (install via `pip install colorama`)
 
 ### Command-line Arguments
